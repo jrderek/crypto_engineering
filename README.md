@@ -4,11 +4,11 @@ In this project, we would experimenting with building a automated cloud based da
 
 Explore our dashboards here!
 
-1: Start Page
-2: Overall DeFi
-3: Category Drill Down
-4: Native Chain Drill Down
-5: Specific Chain Drill Down
+1. Start Page
+2.  Overall DeFi
+3.  Category Drill Down
+4.  Native Chain Drill Down
+5. Specific Chain Drill Down
 
 Purpose of the project
 
